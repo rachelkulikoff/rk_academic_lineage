@@ -1,6 +1,6 @@
 # Academic lineage network in D3.js
 
-This code lets you put an interactive tree of your academic lineage on a website. The website code is entirely in `HTML` and `JavaScript`, so it should work fine on any web host. There's a working example on [my website here](http://www-personal.umich.edu/~jwlock/lineage/lineage.html).
+This code lets you put an interactive tree of your academic lineage on a website. The website code is entirely in `HTML` and `JavaScript`, so it should work fine on any web host. Credit goes entirely to Jeff Lockhart at https://github.com/jwlockhart/academic_lineage. 
 
 # How to use
 - Clone or download the files in this github repository.
